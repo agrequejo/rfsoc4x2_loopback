@@ -121,7 +121,23 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+## Citation
+
+If you use any files or parts of this project, please cite this work:
+
+A. García Requejo, A. Hernández, "RFSoC 4x2 Loopback," 2026. [Online]. Available: https://github.com/agrequejo/rfsoc4x2_loopback. [Accessed: YYYY-MM-DD].
+
+
+### BibTeX
+```bibtex
+@misc{yourkey2026,
+  author       = {A. García Requejo, A. Hernández},
+  title        = {RFSoC 4x2 Loopback},
+  year         = {2026},
+  howpublished = {\url{https://github.com/agrequejo/rfsoc4x2_loopback}},
+  note         = {Accessed: YYYY-MM-DD}
+}
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -1,4 +1,4 @@
-source hw_bd.tcl
+source hw/hw_bd.tcl
 
 set script_dir [file dirname [file normalize [info script]]]
 set project_dir [file dirname [file dirname [file normalize [info script]]]]
